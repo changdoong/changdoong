@@ -81,7 +81,7 @@
 ## 🔗 Connect
 
 - **GitHub**: [github.com/changdoong](https://github.com/changdoong)
-- **Portfolio**: [Notion Portfolio](https://ritzy-flavor-858.notion.site/Vision-AI-ML-Engineer-b7000bdcc2778374985701823cf526f3)
+- **Portfolio**: [Notion Portfolio](https://ritzy-flavor-858.notion.site/Vision-AI-ML-Engineer-b7000bdcc2778384985701823cf526f3?source=copy_link)
 
 ------------------------------------------------------------------------
 
