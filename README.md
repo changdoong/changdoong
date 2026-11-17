@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/changdoong"> <img src="https://img.shields.io/badge/GitHub-changdoong-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://ritzy-flavor-858.notion.site/Vision-AI-ML-Engineer-b7000bdcc2778374985701823cf526f3"> <img src="https://img.shields.io/badge/Portfolio-Notion-312E81?style=for-the-badge&logo=notion&logoColor=white" /> </a>
+<a href="https://github.com/changdoong"> <img src="https://img.shields.io/badge/GitHub-changdoong-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://ritzy-flavor-858.notion.site/Vision-AI-ML-Engineer-b7000bdcc2778384985701823cf526f3?source=copy_link"> <img src="https://img.shields.io/badge/Portfolio-Notion-312E81?style=for-the-badge&logo=notion&logoColor=white" /> </a>
 
 </div>
 
